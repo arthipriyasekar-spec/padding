@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>part 2</title>
+    <style>
+        .hero-name {
+            font-size: 39px;
+            font-weight: bold;
+            color: #4e4eb4;
+            font-family: italic;
+            text-align: center;
+        }
+        .tagline {
+            background-color: darkcyan;
+            font-weight:lighter;
+            font-size: 20px;
+            width: 70%;
+            color: white;
+            padding-left: 5%;
+            padding-right: 5%;
+            height: 10%;
+            margin: auto;
+        }
+        .food-name {
+          font-size: 35px;
+            font-weight: bold;
+            margin-left: 2cm;
+            color: #3254eb;
+            font-family: Arial;
+        }
+        .discribe-title{
+           background-color: rgb(243, 247, 150);
+            font-weight: bold;
+            color:rgb(117, 36, 36);
+            margin-left: 1cm; 
+            margin-right: 1cm;
+             text-align: center;
+            font-family: Arial;
+        }
+        .discribe{
+          font-size: 20px;
+           font-weight: lighter;
+           color: #1a0301;
+           margin-left: 3.7cm;
+            font-family: Arial; 
+        }
+        .discribe-title1{
+           background-color: rgb(243, 247, 150);
+            font-weight: bold;
+            color:rgb(117, 36, 36);
+            margin-left: 1cm; 
+            margin-right: 1cm;
+            text-align: center;
+            font-family: Arial;
+        } 
+        .discribe1{
+           font-size: 20px;
+           font-weight: lighter;
+           color: #1a0301;
+           margin-left: 3.7cm;
+            font-family: Arial;
+        }
+       .discribe-title2{
+              background-color: rgb(243, 247, 150);
+            font-weight: bold;
+            color:rgb(117, 36, 36);
+            margin-left: 1cm; 
+            margin-right: 1cm;
+           text-align: center;
+            font-family: Arial;
+       }
+       .discribe2{
+        font-size: 20px;
+           font-weight: lighter;
+           color: #1a0301;
+           margin-left: 3.7cm;
+            font-family: Arial;
+       }
+       .discribe-title3{
+        background-color: rgb(243, 247, 150);
+            font-weight: bold;
+            color:rgb(117, 36, 36);
+            margin-left: 1cm; 
+            margin-right: 1cm;
+                   text-align: center;
+            font-family: Arial;
+             }
+        .discribe3{
+         font-size: 20px;
+           font-weight: lighter;
+           color: #1a0301;
+           margin-left: 3.7cm;
+            font-family: Arial;
+        }
+        .discribe-title4{
+            background-color: rgb(243, 247, 150);
+            font-weight: bold;
+            color:rgb(117, 36, 36);
+            margin-left: 1cm; 
+            margin-right: 1cm;
+           
+             text-align: center;
+            font-family: Arial;
+        }
+        .discribe4{
+            font-size: 20px;
+           font-weight: lighter;
+           color: #1a0301;
+           margin-left: 3.7cm;
+            font-family: Arial;
+        }
+        .discribe-title5{
+              background-color:black;
+            font-weight: bold;
+            color: red;
+           padding-top: 4%;
+            padding-bottom: 4%;
+            font-family: Arial;
+        }
+       
+</style>
+    <body>
+        <h1 class="hero-name">Indian Cusines</h1>
+        <p class="tagline">The traditional of India has been widely appreciated for its fabulous of herbs and spices.Indian cuisine is known for
+        its large assortment of dishes.The cooking style varies from region to region and is largely divided into North Indian
+        and South Indian cuisine. India is quite famous for its diverse multi cuisine available in a large number of restaurants
+        and hotel resorts, which is reminiscent of unity in diversity.</p>
+        <h2 class="food-name">Bengali<br> Gujarati<br> Mughlai<br> Panjabi<br> South Indian<br></h2>
+        <h3 class="discribe-title">Bengali food</h3>
+        <img src="Bengali_food.jfif" alt="Bengali food" 
+        style="margin-left: 3.7cm;" 
+        width="300";
+         height="200";>
+        <p class="discribe">Bengali cuisine is appreciated for its fabulous use of panchphoron, a term used to refer to the five essential spices namly mustard, fenugreek seed,black cumin seed and aniseed. 
+        The specitlty of Bengali food blend of sweet and spicy flavors.</p>
+        <h4 class="discribe-title1">Gujarati food</h4>  
+        <img src="Gujarati_image.jfif" alt="Bengali food"
+         style="margin-left: 3.7cm;" 
+        width="300";
+         height="200";><br>
+        <br>
+       <p class="discribe1">The traditional gujarati food is primarily vegetarian and has a high nutritional value. The typical Gujarati thali consist of various kinds of lip smacking dishes. Gujarati cuisine has so much to offer and each dish has an absolutely different cooking style.
+       </p>
+       <h5 class="discribe-title2">Mughlai food
+        </h5>
+        <br>
+    
+        <img src="Mughali_food.jfif" alt="Mughali food" 
+        style="margin-left: 3.7cm;" 
+        width="300";
+         height="200";>
+    
+
+        <p class="discribe2">Mughlai cuisine is a style of cooking developed in the Indian subcontinent by the imperial kitchens of the Mughal Empire. It represents a combination of South Asian, Central Asian and Middle Eastern cuisine. The main ingredients used in Mughlai cuisine are meat, cream, yogurt, nuts and ghee.</p>
+        
+        <h6 class="discribe-title3">Punjabi food</h6>
+        
+         <img src="Punjabi_food.jfif" alt="Punjabi food" 
+         style="margin-left: 3.7cm;" 
+        width="300";
+         height="200";>
+        
+         <p class="discribe3">Punjabi cuisine is the cuisine of the Punjab region of India and Pakistan. It is characterized by its rich, buttery flavors and the extensive vegetarian and meat dishes. Punjabi cuisine is known for its use of dairy products, such as paneer (cheese) and ghee (clarified butter), as well as its tandoori cooking methods.</p>
+         
+         
+         <p class="discribe-title4">South Indian Cuisine</p><br>
+        
+        
+         <img src="South_indian.jfif" alt="South Indian Cuisine" 
+         style="margin-left: 3.7cm;" 
+        width="300";
+         height="200";>
+        
+         <p class="discribe4">The cuisine of south India is known for its light, low calorie appetizing dishes. The traditional food of south India is mainly rice based. The cuisine is famous for wonderful mixing of rice nad lentils to prepare yummy lip smacking dosas, vadas, idilis and uttapams</p>
+        <p class="discribe-title5">Published by: Author Name<br>
+            <br>
+            Date: 2024-06-15
+        </p>
+       
+        </style>
+       </body>
+    </head>
